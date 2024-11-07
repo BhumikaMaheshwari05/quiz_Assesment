@@ -1,26 +1,38 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+    color: rgb(39, 44, 192);
+}
 
 #prev{
     height: 40px;
     width: 100px;
+    color: aliceblue;
     background-color: rgb(67, 121, 240);
-    border: 2px solid black;
+    border: 0px solid black;
     border-radius: 5px;
     padding: 2px;
+    margin-top: 12px;
 
-    
+
 }
 #next{
     height: 40px;
     width: 100px;
+    color: aliceblue;
     background-color: rgb(60, 238, 149);
-    border: 2px solid black;
+    border: 0px solid black;
     border-radius: 5px;
+
 }
 #submit{
     height: 40px;
     width: 100px;
+    color: aliceblue;
     background-color: red;
-    border: 2px solid black;
+    border: 0px solid black;
+    border-radius: 5px;
 }
 #sub{
     height: 40px;
