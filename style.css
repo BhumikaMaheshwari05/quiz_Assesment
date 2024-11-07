@@ -1,0 +1,31 @@
+
+#prev{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(67, 121, 240);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+
+    
+}
+#next{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(60, 238, 149);
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#submit{
+    height: 40px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid black;
+}
+#sub{
+    height: 40px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid black;
+}
+
